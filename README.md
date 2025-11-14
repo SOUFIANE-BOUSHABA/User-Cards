@@ -21,7 +21,8 @@ Aucun utilisateur trouvé (à la place des cartes).
 
 ### Travail demandé :
 
-Quand on change la valeur du <select> :
+Quand on change la valeur du select :
+
 
 Si "Toutes les villes" → afficher tous les utilisateurs.
 
