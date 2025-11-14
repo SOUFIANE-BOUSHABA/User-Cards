@@ -14,7 +14,7 @@ Réafficher les cartes avec le résultat filtré.
 Si aucun résultat trouvé, afficher un message :
 Aucun utilisateur trouvé (à la place des cartes).
 
-# 2 : Filtrer par ville (select)
+## 2 : Filtrer par ville (select)
 
 ### Contexte :
  afficher uniquement les utilisateurs d’une ville spécifique (Casablanca, Rabat, Fès, Marrakech…).
